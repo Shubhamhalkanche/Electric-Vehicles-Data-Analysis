@@ -19,7 +19,7 @@ This repository contains a Tableau dashboard for analyzing electric vehicles (EV
 
 - **Sales Trends**: Visualize historical sales data of electric vehicles.
 - **Market Share Analysis**: Compare market share of different EV manufacturers.
-- **Performance Metrics**: Analyze key factors such as plug-in hybrid electric vehicles (PHEVs) and battery electric vehicles (BEVs), CAFV Eligibility, etc
+- **Performance Metrics**: Analyze key factors such as plug-in hybrid electric vehicles (PHEVs) and battery electric vehicles (BEVs), Clean Alternative Fuel Vehicle(CAFV) Eligibility, etc
 - **Interactive Filters**: Customize views with interactive filters for date ranges, manufacturers and vehicle types.
 
  ## Usage
